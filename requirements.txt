@@ -4,5 +4,5 @@ plotly==6.0.1
 prophet==1.1.6
 streamlit==1.45.1
 python_bcrypt==0.3.2
-streamlit_optian_menu
+streamlit_option_menu
 firebase_admin
